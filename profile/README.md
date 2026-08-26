@@ -1,6 +1,6 @@
 # Embodied Computation Group
 
-**Computational approaches to brain-body interaction** · [Aarhus University](https://clin.au.dk/) & [Cambridge Psychiatry](https://www.psychiatry.cam.ac.uk/)
+**Computational approaches to brain-body interaction** · [Aarhus University](https://clin.au.dk/)
 
 We investigate how visceral signals from the heart, lungs, and gut shape perception, emotion, and decision-making. Our lab combines computational modelling, neuroimaging, and psychophysiology to understand embodied cognition — and develops open-source tools to make this research accessible to everyone.
 
