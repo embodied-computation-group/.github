@@ -15,7 +15,7 @@ We investigate how visceral signals from the heart, lungs, and gut shape percept
 | **[systole](https://github.com/embodied-computation-group/systole)** | Cardiac signal processing, HRV analysis, artifact correction, and real-time peak detection | `pip install systole-core` |
 | **[Cardioception](https://github.com/embodied-computation-group/Cardioception)** | Psychophysical tasks for measuring cardiac interoception (heartbeat counting & heart rate discrimination) | `pip install cardioception-toolbox` |
 | **[respyra](https://github.com/embodied-computation-group/respyra)** | Real-time respiratory tracking with visual biofeedback for interoception research | `pip install respyra` |
-| **[gastropy](https://github.com/embodied-computation-group/gastropy)** | Electrogastrography (EGG) signal processing and gastric-brain coupling analysis | `pip install -e ".[all]"` |
+| **[gastropy](https://github.com/embodied-computation-group/gastropy)** | Electrogastrography (EGG) signal processing and gastric-brain coupling analysis | `pip install gastropy` |
 | **[metadpy](https://github.com/embodied-computation-group/metadpy)** | Metacognitive efficiency modelling in Python | `pip install metadpy` |
 | **[Hierarchical-Interoception](https://github.com/embodied-computation-group/Hierarchical-Interoception)** | Bayesian hierarchical modelling toolkit for interoceptive psychophysics | — |
 
